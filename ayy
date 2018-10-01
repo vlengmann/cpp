@@ -1,0 +1,14 @@
+   int length;
+
+       int height;
+
+       length = height = 5;
+
+       height++;
+
+       int depth = 2;
+
+       long size = length * height * depth;
+
+       cout << size << endl;
+       
